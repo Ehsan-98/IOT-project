@@ -23,4 +23,7 @@ If someone tries to open the locked container, a buzzer sounds, and a warning ap
   - trash container
 # Image of the Elements
 ![Local Image](ImageOfAllElements.JPG)
+# graph design
+![Local Image](Downloads/CIrcuitdesign.JPG)
+
   
