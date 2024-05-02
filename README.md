@@ -22,7 +22,7 @@ If someone tries to open the locked container, a buzzer sounds, and a warning ap
   - Jumper wires (for connecting components on the breadboard)
   - trash container
 # Image of the Elements with the  jumper wire connections
-![Local Image](circuits.JPG)
+![Local Image](Gpioconnectionselements.JPG)
 # graph design
 ![Local Image](CIrcuitdesign.JPG)
 
