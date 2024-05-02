@@ -20,5 +20,7 @@ If someone tries to open the locked container, a buzzer sounds, and a warning ap
   - Resistors (for button connections, if needed)
   - Breadboard (for prototyping and connecting components)
   - Jumper wires (for connecting components on the breadboard)
-  - trash container 
+  - trash container
+# Image of the Elements
+![Local Image](ImageOfAllElements.JPG)
   
