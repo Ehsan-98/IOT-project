@@ -13,15 +13,21 @@ If someone tries to open the locked container, a buzzer sounds, and a warning ap
 
 ## Components:
   - Rasberry Pi
+    ![Local Image](Gpioconnectionselements.JPG)
   - Ultrasonic sensor (HC-SR04)
+    ![Local Image](Gpioconnectionselements.JPG)
   - LED bar display
+    ![Local Image](Gpioconnectionselements.JPG)
   - Green and Red Leds
+    ![Local Image](Gpioconnectionselements.JPG)
   - Red and blue push buttons
+    ![Local Image](Gpioconnectionselements.JPG)
   - Passive buzzer
-  - Resistors (for button connections, if needed)
+    ![Local Image](Gpioconnectionselements.JPG)
   - Breadboard (for prototyping and connecting components)
   - Jumper wires (for connecting components on the breadboard)
   - trash container
+    ![Local Image](Gpioconnectionselements.JPG)
 # Image of the Elements with the  jumper wire connections
 ![Local Image](Gpioconnectionselements.JPG)
 # A close look to the GPIO connections with the  elements
