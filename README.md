@@ -15,6 +15,7 @@ If someone tries to open the locked container, a buzzer sounds, and a warning ap
   - Rasberry Pi
   - Ultrasonic sensor (HC-SR04)
   - LED bar display
+  - Green and Red Leds
   - Red and blue push buttons
   - Passive buzzer
   - Resistors (for button connections, if needed)
