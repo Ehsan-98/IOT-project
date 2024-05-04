@@ -14,9 +14,9 @@ If someone tries to open the locked container, a buzzer sounds, and a warning ap
 ## Components:
 ![Local Image](IMG_9184.jpeg)
 ![Local Image](IMG_9185.jpeg)
-
+#A mockup of the graphical interface 
+![Local Image](IMG_9185.jpeg)
 # Image of the Elements with the wire connections
-
 ![Local Image](Gpioconnectionselements.JPG)
 # A close look to the GPIO connections with the  elements
 ![Local Image](Gpiopins.JPG)
