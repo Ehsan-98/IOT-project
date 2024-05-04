@@ -13,7 +13,7 @@ If someone tries to open the locked container, a buzzer sounds, and a warning ap
 
 ## Components:
 ![Local Image](Images/IMG_9184.jpeg)
-![Local Image](IMG_9185.jpeg)
+![Local Image](Images/IMG_9185.jpeg)
 #A mockup of the graphical interface 
 ![Local Image](image00001.jpeg)
 # Image of the Elements with the wire connections
