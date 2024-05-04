@@ -21,7 +21,9 @@ If someone tries to open the locked container, a buzzer sounds, and a warning ap
   - Breadboard (for prototyping and connecting components)
   - Jumper wires (for connecting components on the breadboard)
   - trash container
-# Image of the Elements with the  jumper wire connections
+![Local Image](IMG_9184.jpeg)
+# Image of the Elements with the  jumper wire connectionsIMG_9184.jpeg
+
 ![Local Image](Gpioconnectionselements.JPG)
 # A close look to the GPIO connections with the  elements
 ![Local Image](Gpiopins.JPG)
