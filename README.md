@@ -21,6 +21,6 @@ If someone tries to open the locked container, a buzzer sounds, and a warning ap
 # A close look to the GPIO connections with the  elements
 ![Local Image](Gpiopins.JPG)
 # graph design
-![Local Image](CIrcuitdesign(1).JPG)
+![Local Image](Images/CIrcuitdesign .JPG)
 
   
