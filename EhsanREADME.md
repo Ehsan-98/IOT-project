@@ -1,6 +1,6 @@
 # Features
 
-The smart waste management system we've created uses sensors and IoT technology to keep track of how full trash containers are. We use an ultrasonic sensor to measure waste levels accurately, taking into account the container's depth. This information is displayed in real-time on a user-friendly screen created with Tkinter. Users can also set a threshold (like 80% full) to get alerts when the container needs attention.
+The smart waste management system I haveve created uses sensors and IoT technology to keep track of how full trash containers are. We use an ultrasonic sensor to measure waste levels accurately, taking into account the container's depth. This information is displayed in real-time on a user-friendly screen created with Tkinter. Users can also set a threshold (like 80% full) to get alerts when the container needs attention.
 
 Outside the container, there's an LED bar that changes to show how full the container is. For example, if it's 0-20% full, one bar lights up; if it's 21-40% full, two bars light up, and so on. This visual display makes it easy to see the waste level at a glance.
 
